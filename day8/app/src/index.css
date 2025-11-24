@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+form{
+  font-size: 34px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+button{
+  height: 40px;
+  width: 200px;
+  display: block;
+  margin:0 auto;
+}
