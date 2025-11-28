@@ -33,7 +33,6 @@ const App = () => {
   return (
     <div>
       <h1>Todolist</h1>
-
       <input
         type="text"
         value={inputText}
